@@ -1,3 +1,35 @@
-p{
+p, section span{
     font-family: 'Montserrat';
+}
+div{
+    display: inline-block;
+    line-height: 0px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    
+}
+body{
+    color: #5FBA19;
+}
+img{
+    width: 100%;
+}
+.closing{
+    width: 100%;
+    
+}
+.imgbox{
+    position: relative;
+}
+.RebirthHeader{
+    position: absolute;
+    z-index: 2;
+    left: .35%;
+    top: .25%;
+    width: 10%;
+    color: #4bad00;
+    font-size: 7.7cqw;
+    font-weight: 600;
+    line-height: 1.22;
 }
